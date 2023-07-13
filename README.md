@@ -4,7 +4,7 @@
 <h1>Hello👋<br>I'm Jieun🐱‍🚀</h1>
 <br>
 🔥 <b>Site</b> 🔥 <br>
-<a href="https://velog.io/@qpdjtm82" target='_blank'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" width="24"/></a>
+<a href="https://velog.io/@qpdjtm82" target='_blank'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   
 <br><br>
 🛠 <b>Stacks</b> 🛠<br>
