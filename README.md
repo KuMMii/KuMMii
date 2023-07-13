@@ -3,11 +3,11 @@
 </span>
 <h1>Hello👋<br>I'm Jieun🐱‍🚀</h1>
 <br>
-🔥 <b>Site</b> 🔥 <br>
+🔥 <b>Site</b> 🔥 <br><br>
 <a href="https://velog.io/@qpdjtm82" target='_blank'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   
 <br><br>
-🛠 <b>Stacks</b> 🛠<br>
+🛠 <b>Stacks</b> 🛠<br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
