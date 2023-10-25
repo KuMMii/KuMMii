@@ -16,3 +16,5 @@
 <br><br><br>
 
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KuMMii&theme=dawnfox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
